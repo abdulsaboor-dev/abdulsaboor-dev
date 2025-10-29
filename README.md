@@ -61,8 +61,10 @@ I love solving complex problems and turning them into clean, scalable solutions.
 
 ---
 
-### 🐍 My Contribution Snake
-![snake gif](https://github.com/AbdulSaboor/AbdulSaboor/blob/output/github-contribution-grid-snake.svg)
+### 🧩 My Coding Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulSaboor&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
