@@ -61,18 +61,8 @@ I love solving complex problems and turning them into clean, scalable solutions.
 
 ---
 
-### 📫 Let's Connect
-<p align="center">
-  <a href="mailto:abdul.saboor.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/abdul--saboor/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/AbdulSaboor"><img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github"></a>
-</p>
-
-### 🧩 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulSaboor&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
+### 🐍 My Contribution Snake
+![snake gif](https://github.com/AbdulSaboor/AbdulSaboor/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
