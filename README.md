@@ -6,7 +6,6 @@
 <p align="center">
   <a href="mailto:abdul.saboor.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/abdul--saboor/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/AbdulSaboor"><img src="https://img.shields.io/badge/GitHub-AbdulSaboor-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
