@@ -68,6 +68,12 @@ I love solving complex problems and turning them into clean, scalable solutions.
   <a href="https://github.com/AbdulSaboor"><img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github"></a>
 </p>
 
+### 🧩 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulSaboor&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+
 ---
 
 ⭐ *“Code with logic, build with passion.”*  
